@@ -1,0 +1,14 @@
+{
+    "name": "xhwan123/myonecom",
+    "description": "my one composer obj",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mr.kang",
+            "email": "275657684@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
